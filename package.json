@@ -1,0 +1,14 @@
+{
+  "name": "hugo_counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx light-server -s . -w \"**/*\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "light-server": "^2.9.1"
+  }
+}
